@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/efd0aeb22a0fb58ebc90e23e99defbc2398ecefa0b2314dc2be0778c76373649/68747470733a2f2f646f776e6c6f61642e63727970746f2d636974792e636f6d2f61772f6769746875622e676966)
+[!MasterHead](https://camo.githubusercontent.com/efd0aeb22a0fb58ebc90e23e99defbc2398ecefa0b2314dc2be0778c76373649/68747470733a2f2f646f776e6c6f61642e63727970746f2d636974792e636f6d2f61772f6769746875622e676966)
 <h1 align="center">Hi 👋, I'm Raj Kumar Singha</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="coding" width= "300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5vxHcrs5T_M1fh91zVylz2vEX3QjWTvaUhg&usqp=CAU"/>
