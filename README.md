@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/rajkuma48617284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajkuma48617284" height="30" width="40" /></a>
 <a href="https://fb.com/raj.kumar.singha.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raj.kumar.singha.05" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/oneway2067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oneway2067" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@officialoneway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oneway2067" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
